@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+    </head>
+    <body>
+
+      <meta charset="utf-8">
+        <title>CSS Basics</title>
+        <style>
+        
+        h2 {
+            color: rgb(50, 51, 12);
+        }  
+        
+        body {
+            background-color: rgb(209, 169, 8);
+        }
+            
+          .declaration { 
+                color: brown;
+            font-weight: bold;
+            font-size:16px;
+            font-style:italic;
+            }
+            
+            .quote {
+                background-color:brown;
+            font-family: arial;
+            font-size: 16px;
+            font-style: italic;
+            }  
+            
+        </style>
+        <strong><em>El CHOCOLATE</em></strong>.<br>
+         <h1><em>Todo del Chocolate</em> </h1>
+    
+    <h2><em>Que es</em></h2>
+    
+    <p>Se obtiene mezclando azúcar con dos productos derivados de la manipulación de las semillas del cacao: la masa del cacao y la manteca de cacao.A partir de esta combinación básica se elaboran los distintos tipos de chocolate que dependen de la proporción entre estos elementos y de su mezcla, o no, con otros productos tales como leche, colorante,frutos secos.</p>
+    
+   
+    <h2><em>Poema</em></h2>
+    
+    <p>Tu amor tiene sabor a chocolate<br>
+
+Tu corazón es un bombón, para amarte,<br>
+
+Bendita la luz que tienes en tu mirada<br>
+
+La que me ha llenado de claridad,<br>
+
+Y el sabor de tus labios, con sabor de chocolate <br>
+<br>
+ <strong>autor eco del alma</strong>
+ </p>
+    
+    <h2><em>como se usa el de chocolate </em></h2>
+    <ul>
+        <li>Chocolate con frutas</li>
+        <li>Chocolate fondant</li>
+        <li>Chocolate de cobertura</li>
+    </ul>
+    
+    <h3><em>Tipos de chocolate</em></h3>
+    
+    <ol>
+        <li>Chocolate blanco</li>
+        <li>Chocolate Negro</li>
+        <li>chocolate con leche</li>
+    </ol>
+    
+        <h2><em>Receta de la Torta de Chocolate</em></h2>
+        
+        <table>
+            <thead>
+                <tr>
+                    
+                    <th>Ingredientes</th><br>
+                    <th>Preparacion </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <ul><td><li>Harina, 3 tazas</li>
+                        <br>
+                    <li>Chocolate en polvo, 1 taza</li>
+                    <br>
+                    <li>Azúcar, 2 tazas</li>
+                    <br>
+                    <li>Sal, ½ cucharadita</li>
+                    <br>
+                    <li>Polvo de hornear, 3 cdas</li>
+                    <br>
+                    <li>Aceite, 1 taza</li>
+                    <br>
+                    <li>Huevos, 3</li>
+                    <br>
+                    <li>Agua hirviendo, 2 tazas</li>
+                    <br>
+                    <li>Baño de chocolate: 200 g de                                     azúcar impalpable, 50 g de manteca,                             1 cda. de cacao en polvo, 3 cdas de                             agua.</li>
+</td></ul>
+
+      
+
+<td><ol><li>En un bowl se colocan los ingredientes secos.</li><br>
+<br>
+  
+<li>En el centro se hace un hueco y se coloca el aceite y los huevos, y se van tomando los ingredientes secos revolviendo con cuchara de madera.</li><br>
+
+  <br>
+<li>A medida que la masa va necesitando más liquido, se va agregando el agua hirviendo, a veces no es necesario llegar a usar las 2 tazas, si la mezcla adquiere antes una consistencia fluida y homogénea.<br></li>
+
+  <br>
+<li>Se coloca en asadera enmantecada y enharinada y en horno moderado lleva cerca de una hora de cocción (ir pinchando desde los 45 minutos).<br></li>
+<br>
+  
+<li>Rellenar con dulce de leche y cubrir con el baño de chocolate.<br>
+
+<br></li>
+  
+<li>Para el baño de chocolate: Mezclar todos los ingredientes y disolver a baño María. Cubrir la torta con la mezcla, teniendo en cuenta que si el relleno está caliente lo mejor será que la torta esté fría, o viceversa.<br></li>
+<br>
+  
+<li>Para decorar: nueces, en mitades o picadas; frutillas frescas, frambuesas, chocolate rallado, caramelo, praliné... mermelada cítrica, naranjas, en fin lo que tengan y/o quieran agregar.<br></li>
+    </ol></td>
+
+                </tr>
+            </tbody>
+        </table>
+<h2>Frases del Chocolate</h2>
+    <p class="quote">
+    "La negatividad no es el camino a seguir, sonrie mas, come algo de chocolate."
+    <br> - Ed Sheran
+    </p>
+    
+    <p class="quote">
+    "Como cualquier tipo de chocolate unas cinco veces a la semana. Definitivamente hay un cambio en la quimica de cuerpo. Es mi sensacion favorita. Vivo por el."
+    <br>- Jhon Travolta
+    </p>
+    
+    <p class="quote">
+    "Las cuentas claras y el chocolate espeso"
+    <br> - Proverbio
+    <p>
+   
+    <p>
+     <h2>Citas famosas de Peliculas del chocolate</h2>
+     
+    <p class="declaration">
+    Los más apetitosos olores del mundo parecían mezclarse en el aire que les rodeaba: el olor de café tostado y el de azúcar quemado y el de chocolate derretido. "Charlie y la fábrica de chocolate". Roald Dahl
+    </p>
+    
+    <p class="declaration">
+   Al descubrir ese resto de chocolate me dieron unas ganas terribles de comerme un trozo. Quería leer y comer chocolate como hacía antes. Todas las células de mi cuerpo me lo pedían a gritos, parecían haberse contraído como si aguantaran la respiración. "El elefante desaparece".
+   Haruki Murakami
+    </p>
+    
+       
+    </body>
+</html>
